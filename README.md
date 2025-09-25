@@ -48,3 +48,7 @@ It transforms raw HR data into actionable insights, enabling HR teams and manage
 ## 📈 Outcome
 
 This dashboard helps HR and management teams quickly identify patterns in employee attrition, enabling proactive retention strategies and better workforce planning.
+
+## 📸 Preview
+
+![HR_Analytics_Dashboard](./Images/HR%20Dashboard.png)
